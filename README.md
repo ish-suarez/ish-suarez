@@ -1,7 +1,8 @@
 - 👋 Hi, I’m name is Ismael Hector Suarez
-- 👀 I’m, 26, I am Puerto Rican 🇵🇷, and I like to cruise on my skateboard
+- 👀 I’m 26, and I like to feel the breeze when I cruise on my skateboard
 - 🌱 I’m a Full Stack Web Developer
 - 📫 You can reach me at ... ish-suarez@outlook.com
+- 📲 Find me at [izzydev.com](https://izzydev.com)
 
 
 A mind is like a parachute, it only works when open
