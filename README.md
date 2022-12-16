@@ -3,7 +3,7 @@
 - 🌱 I’m a Full Stack Web Developer
 - 📫 You can reach me at ... ish-suarez@outlook.com
 - 📲 Find me at [izzydev.com](https://izzydev.com)
-- 📚 Student Reopository with work is at [ih-suarez](https://github.com/ih-suarez)
+- 📚 Student Repository is at [ih-suarez](https://github.com/ih-suarez)
 
 
 
